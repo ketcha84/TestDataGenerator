@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Acmp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Acmp_jar</output-path>
+    <root id="archive" name="Acmp.jar">
+      <element id="module-output" name="Acmp" />
+    </root>
+  </artifact>
+</component>
